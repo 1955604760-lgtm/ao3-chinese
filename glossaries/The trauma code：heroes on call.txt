@@ -1,0 +1,60 @@
+版本号: 1.0
+维护者: Lexie
+更新时间: 2026-06-26
+
+// ============================================================
+// 词条（区分大小写）—— 角色名、地名、专有名词
+// ============================================================
+词条
+//人名
+Baek Kang-hyuk=白江赫
+Yang Jae-won=杨载源
+Cheon Jang-mi=千蔷薇
+Park Kyung-won=朴京元
+Han Yu-rim=韩宥林
+Hong Jae-hoon=洪载勋
+Choi Jo-eun=崔朝殷
+Kang Myung-hee=姜明熙
+Kwon Hak-soo=权学洙
+Seo Dong-ju=徐栋柱
+Lee Hyun-joong=李贤仲
+
+Kanghyuk=江赫
+Jaewon=载源
+Jangmi=千蔷薇
+Kyungwon=朴京元
+Yurim=韩宥林
+
+//外号
+No.1=一号
+Anus=肛门
+Gangster=黑社会
+
+//地点科室
+Korea University Hospital=韩国大学医院
+Trauma Center=外伤重症中心
+Trauma Unity=外伤重症小组
+Department of Trauma Surgery=外伤重症外科
+Ministry of Health and Welfare=保健福祉部
+Department of Colorectal Surgery=肛门外科
+Department of Infectious Diseases=感染内科
+Office of Planning and Coordination=企划调整室
+
+// ============================================================
+// 通用词条（不区分大小写）—— 职位、科室通称、常用短语
+// ============================================================
+通用词条
+professor=教授
+director=主任
+chief=室长
+minister=部长
+hospital director=院长
+resident=住院医师
+nurse=护士
+anesthesiology=麻醉科
+emergency room=急诊室
+operating room=手术室
+trauma patient=外伤患者
+critical patient=重症患者
+golden hour=黄金救援时间
+golden time=黄金时间
