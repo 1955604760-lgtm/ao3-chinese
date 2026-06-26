@@ -23,14 +23,15 @@ Jangmi=蔷薇
 Kyungwon=京元
 Yurim=宥林
 
-//外号
+//外号和称呼
 No.1=一号
 Anus=肛门
 Gangster=黑社会
+Dr.Baek=白教授
 
 通用词条
+Gyosunim=教授
 Gyosu=教授
-Dr.=教授
 professor=教授
 director=主任
 chief=室长
@@ -42,5 +43,9 @@ Hankuk National University Hospital=韩国国立大学医院
 Trauma Center=外伤重症中心
 Trauma Unit=外伤重症小组
 trauma surgery=外伤外科
+scrubs=手术服
 golden hour=黄金救援时间
 golden time=黄金时间
+
+禁翻词条
+"-nim"
